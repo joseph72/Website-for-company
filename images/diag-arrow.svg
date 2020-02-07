@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="202" height="202" viewBox="0 0 202 202">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.059" y1="1.19" x2="1.059" y2="-0.19" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0f3065"/>
+      <stop offset="1" stop-color="#0d56cc"/>
+    </linearGradient>
+    <filter id="Ellipse_1" x="0" y="0" width="202" height="202" filterUnits="userSpaceOnUse">
+      <feOffset dy="23" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="23" result="blur"/>
+      <feFlood flood-opacity="0.231"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_1" data-name="Group 1" transform="translate(-172 -1965)">
+    <g transform="matrix(1, 0, 0, 1, 172, 1965)" filter="url(#Ellipse_1)">
+      <circle id="Ellipse_1-2" data-name="Ellipse 1" cx="32" cy="32" r="32" transform="translate(69 46)" fill="url(#linear-gradient)"/>
+    </g>
+    <image id="call-made-right-arrow" width="24" height="24" transform="translate(261 2031)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABHNCSVQICAgIfAhkiAAAARpJREFUSEutlbGKAkEMhr/trlDvDezU0pexuF774yoLW0GxEHvR9sA3shS5UjixEG1WRnYhDrszMbtTzmTyJX8ymSRNUyKrAeyBZsyw4PySKACfwL/B+fOKBqDJ4A6cgK4XiCqDBHCQsuWc34A1MLIANOpMgKm1BjHAEvgRRjugD/QAlUQhwAr4FgYLYAwcgHZVgB/5FhhmsCvwUQXgO9+IAru2PmbvxiSRL4uM3CXgHuSfFRCSJS+FGRCSRTaCCRCTpRJAI4sEtIBzvhGbRVpZJEDOrmAXvSOLBLzMrrIM3pWl9LUXASyyqAFWWVSA2mR5KUj2ZdYqiw/4Bb7Epj9bYv9B8NwVeZ7NcGdYq3P56c+ADjCoFG7B5Qfn5IsMQodeWwAAAABJRU5ErkJggg=="/>
+  </g>
+</svg>
